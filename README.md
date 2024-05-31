@@ -9,6 +9,7 @@
 |[Morgenbladet](https://morgenbladet.no)|-|[Offentlig](https://www.morgenbladet.no/kundeservice/)|<span title="Penger">💰</span>|?|-|
 |[NBX](https://nbx.com)|-|[Responsible Disclosure Program](https://nbx.com/en/security)|<span title="Penger">💰</span>|?|-|
 |[NRK](https://nrk.no)|-|[Responsible Disclosure Program](https://info.nrk.no/responsible-disclosure-policy/)|<span title="Hall of Fame">🏆</span>|?|-|
+|[NIBM](https://www.nbim.no/)|-|[Responsible Disclosure Program](https://www.nbim.no/en/responsible-disclosure-policy/)|<span title="Hall of Fame">🏆</span>|?|-|
 |[Oda](https://oda.com)|[Intigriti](https://intigriti.com)|[Offentlig](https://app.intigriti.com/researcher/programs/oda/oda)|<span title="Penger">💰</span>|Apr. 2022|[Medium](https://medium.com/oda-product-tech/oda-is-launching-our-bug-bounty-program-8e356d5ac0d3)||
 |[Schibsted](https://schibsted.com)|[Intigriti](https://intigriti.com)|Privat (ikke hemmelig)|<span title="Penger">💰</span>|Sept. 2022|-|
 |[Schibsted](https://schibsted.com) - [FINN](https://finn.no)|[Intigriti](https://intigriti.com)|Privat (ikke hemmelig)|<span title="Penger">💰</span>|Sept. 2019|[Medium](https://medium.com/finn-no/one-year-with-a-private-bug-bounty-program-f928a57ad026)||
